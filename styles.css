@@ -1,0 +1,36 @@
+body {
+  font-family: cursive, sans-serif;
+  background-color: paleturquoise;
+}
+
+h1 {
+  color: lightseagreen;
+  text-align: center;
+}
+
+h2 {
+  color: MediumTurquoise;
+  text-align: center;
+}
+h3 {
+ text-align: center;
+}
+
+table {
+  border: 2px solid Turquoise;
+  width: 650px;
+  margin: 0 auto;
+}
+
+thead {
+  background-color: darkturquoise;
+}
+
+td {
+  border-top: 1px solid Turquoise;
+}
+
+.code {
+  font-family: cursive;
+  background-color: beige;
+}
